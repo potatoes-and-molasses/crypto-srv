@@ -1,0 +1,16 @@
+Hi and stuff!
+
+Clear and concise instructions will replace this horrid rambling in due time(hopefully before any sentient being actually tries to solve the challenges), but this will have to do for now:)
+
+So, for now what you need to know is umm... there's a pcap in this folder named starthere.pcapng, and(I know, it might be quite hard to guess from its name alone..) you probably wanna start by staring at this pcap for an indeterminate amount of time and see where it takes you!
+
+There are also hints if you really need them(but try not to use them unless you really feel stuck), those hints will be availble through the scoring system(soon TM), for for now they are availble through the script hints.py... try not looking at all of them instantly:D
+
+So yeah umm, good luck?
+
+Also, have fun if you want to(non-mandatory exercise).
+
+
+mtfbwy
+
+
